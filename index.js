@@ -154,7 +154,7 @@ var UIController = (function () {
                 <div class="right clearfix">
                     <div class="item__value">+ ${formatUINumber(item.value.toFixed(2))}</div>
                     <div class="item__delete">
-                        <button class="item__delete--btn"><i class="ion-ios-close-outline"></i></button>
+                        <button class="item__delete--btn"><ion-icon name="close-circle-outline"></ion-icon></button>
                     </div>
                 </div>
             </div>`;
@@ -166,7 +166,7 @@ var UIController = (function () {
                     <div class="item__value">- ${formatUINumber(item.value.toFixed(2))}</div>
                     <div class="item__percentage">-</div>
                     <div class="item__delete">
-                        <button class="item__delete--btn"><i class="ion-ios-close-outline"></i></button>
+                        <button class="item__delete--btn"><ion-icon name="close-circle-outline"></ion-icon></button>
                     </div>
                 </div>
             </div>
