@@ -1,3 +1,19 @@
-## Budgety
+# Budgety - Financial Management Application
 
-This is a JS Project from JONAS Course
+## Technologies
+
+-   HTML
+-   CSS
+-   Ionicons
+-   JavaScript
+
+## Features
+
+-   Adding Income
+-   Adding Expense
+-   Deleting Income
+-   Deleting Expense
+-   Total Income
+-   Total Expense
+-   Total Networth
+-   Percentage for Each Expense
