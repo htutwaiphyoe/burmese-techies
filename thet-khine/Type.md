@@ -15,7 +15,9 @@ C, C++ ,C# လိုကောင်မျိုးတွေမှာကျတေ
 
 နောက် static langauge တော်တော်များများမှာ Generic type ဆိုတာရတယ်။
 
-C++ မှာတော့ template လိုေ.ခါ်တယ်။ Java C# မှာတော့ Generic လို.သုံးတယ်။ ဘယ်လိုသဘောလဲဆိုတော့ ဥပမာ Stack class တခုရှိတယ်ဆိုပါစို. integer အမျိုးအစား stack လဲဖြစ်နိုင်တယ်။ String object တွေထဲ့ဖို. stack လဲဖြစ်နိုင်တယ်။ 
+C++ မှာတော့ template လိုခေါ်တယ်။ Java C# မှာတော့ Generic လို့သုံးတယ်။ 
+
+ဘယ်လိုသဘောလဲဆိုတော့ ဥပမာ Stack class တခုရှိတယ်ဆိုပါစို. integer အမျိုးအစား stack လဲဖြစ်နိုင်တယ်။ String object တွေထဲ့ဖို့ stack လဲဖြစ်နိုင်တယ်။ 
 
 အဲ့ဒါကို Integer အတွက် stack သက်သက် String object အတွက် stack သက်သက် ဆောက်စရာမလိုပဲနဲ. အားလုံးအတွက် Generic stack ဆောက်ပြီး Stack ကို create လုပ်မှသာ type ကို parameter အနေနဲ.ပေးလိုက်တာမျိုး။ ဒါမျိုးကို type polymorphism လို.လဲခေါ်တယ်။ dynamic language တွေမှာတော့ type သည်ရှိစရာမလိုတော့ ဒါမျိုးမလိုဘူး။ တခုသတိထားရမှာကJava generic သည် C++,C# တို.လို true generic မဟုတ်ဘူး။ Java Generic က type တွေသည် runtime မှာ type erasure ကြောင့်ပျောက်သွားတယ်။
 
