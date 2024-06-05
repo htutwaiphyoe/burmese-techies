@@ -13,5 +13,10 @@ Type လို.ဆိုလို.ခွဲရင် langauge မှာ built in
 C, C++ ,C# လိုကောင်မျိုးတွေမှာကျတော့ long long လိုဆိုပြီးသုံးလို.ရတယ်။ 
 တချို. OO language တွေမှာတော့ သူများ language တွေမှာရှိတဲ့ primitive data type တွေက အစသူတို.က Object အနေနဲ.သတ်မှတ်တယ်။ ဥပမာ Ruby မှာ primitive type တွေဆိုတာမရှိဘဲ Primitive type တွေဖြစ်တဲ့ number တွေသည် Object တွေဖြစ်တယ်။အဲ့လို langauge တွေကိုဘယ်လိုခေါ်လဲဆိုတော့ pure object oriented languageလို.ခေါ်ကြတယ်။
 
-နောက် static langauge တော်တော်များများမှာ Generic type ဆိုတာရတယ်။ C++ မှာတော့ template လိုေ.ခါ်တယ်။ Java C# မှာတော့ Generic လို.သုံးတယ်။ ဘယ်လိုသဘောလဲဆိုတော့ ဥပမာ Stack class တခုရှိတယ်ဆိုပါစို. integer အမျိုးအစား stack လဲဖြစ်နိုင်တယ်။ String object တွေထဲ့ဖို. stack လဲဖြစ်နိုင်တယ်။ အဲ့ဒါကို Integer အတွက် stack သက်သက် String object အတွက် stack သက်သက် ဆောက်စရာမလိုပဲနဲ. အားလုံးအတွက် Generic stack ဆောက်ပြီး Stack ကို create လုပ်မှသာ type ကို parameter အနေနဲ.ပေးလိုက်တာမျိုး။ ဒါမျိုးကို type polymorphism လို.လဲခေါ်တယ်။ dynamic language တွေမှာတော့ type သည်ရှိစရာမလိုတော့ ဒါမျိုးမလိုဘူး။ တခုသတိထားရမှာကJava generic သည် C++,C# တို.လို true generic မဟုတ်ဘူး။ Java Generic က type တွေသည် runtime မှာ type erasure ကြောင့်ပျောက်သွားတယ်။ 
+နောက် static langauge တော်တော်များများမှာ Generic type ဆိုတာရတယ်။
+
+C++ မှာတော့ template လိုေ.ခါ်တယ်။ Java C# မှာတော့ Generic လို.သုံးတယ်။ ဘယ်လိုသဘောလဲဆိုတော့ ဥပမာ Stack class တခုရှိတယ်ဆိုပါစို. integer အမျိုးအစား stack လဲဖြစ်နိုင်တယ်။ String object တွေထဲ့ဖို. stack လဲဖြစ်နိုင်တယ်။ 
+
+အဲ့ဒါကို Integer အတွက် stack သက်သက် String object အတွက် stack သက်သက် ဆောက်စရာမလိုပဲနဲ. အားလုံးအတွက် Generic stack ဆောက်ပြီး Stack ကို create လုပ်မှသာ type ကို parameter အနေနဲ.ပေးလိုက်တာမျိုး။ ဒါမျိုးကို type polymorphism လို.လဲခေါ်တယ်။ dynamic language တွေမှာတော့ type သည်ရှိစရာမလိုတော့ ဒါမျိုးမလိုဘူး။ တခုသတိထားရမှာကJava generic သည် C++,C# တို.လို true generic မဟုတ်ဘူး။ Java Generic က type တွေသည် runtime မှာ type erasure ကြောင့်ပျောက်သွားတယ်။
+
 Type တခုချင်းဆီအတွက် အသေးစိတ်က နောက်မှ ရှင်းမှအဆင်ပြေမယ်။
