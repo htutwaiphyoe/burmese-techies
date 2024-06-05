@@ -9,7 +9,9 @@ b object ရဲ. type သည် a object ရဲ. type သို.မဟုတ် 
 Super type, subtype ကိုဘယ်လိုသတ်မှတ်သလဲဆိုတော့ inheritance, interface inheritance နဲ.ဆုံးဖြတ်ပါတယ်။
 
 ဥပမာ Java မွာ
-```java class A
+
+```java 
+class A
 {
 }
 class B extends A impelemnts C
