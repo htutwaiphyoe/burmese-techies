@@ -1,8 +1,8 @@
-# Burmese Tech
+# Burmese Techies
 
-A repository for the collections of burmese quality technical contents
+A repository for the collections of Burmese quality technical contents by Burmese Techies
 
-## Table of content
+## Table of contents
 
 1. Thet Khine
 2. Sun Thurain Moe
