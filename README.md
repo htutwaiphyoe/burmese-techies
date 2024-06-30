@@ -5,7 +5,8 @@ A repository for the collections of burmese quality technical contents
 ## Table of content
 
 1. Thet Khine
-2. Harry Yan
+2. Sun Thurain Moe
+3. Harry Yan
 
 ## HOW TO CONTRIBUTE
 
