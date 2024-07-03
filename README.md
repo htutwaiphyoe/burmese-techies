@@ -7,6 +7,7 @@ A repository for the collections of Burmese quality technical contents by Burmes
 1. Thet Khine
 2. Sun Thurain Moe
 3. Harry Yan
+4. Wai Lin Kyaw
 
 ## HOW TO CONTRIBUTE
 
