@@ -4,10 +4,10 @@ A repository for the collections of Burmese quality technical contents by Burmes
 
 ## Table of contents
 
-1. Thet Khine
-2. Sun Thurain Moe
-3. Harry Yan
-4. Wai Lin Kyaw
+1. [Thet Khine](https://github.com/htutwaiphyoe/burmese-techies/tree/master/thet-khine)
+2. [Sun Thurain Moe](https://github.com/htutwaiphyoe/burmese-techies/tree/master/sun-thurain-moe)
+3. [Harry Yan](https://github.com/htutwaiphyoe/burmese-techies/tree/master/harry-yan)
+4. [Wai Lin Kyaw](https://github.com/htutwaiphyoe/burmese-techies/tree/master/wai-lin-kyaw)
 
 ## HOW TO CONTRIBUTE
 
